@@ -1,0 +1,14 @@
+# robots.txt for https://shainnovativetechnologies.com/
+User-agent: *
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+Sitemap: https://shainnovativetechnologies.com/sitemap.xml
